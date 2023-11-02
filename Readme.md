@@ -2,6 +2,8 @@
 
 This repository contains the code and report for our winning solution in the GeoAI Challenge organized by ITU. The challenge focused on Location Mention Recognition (LMR) from crisis-related tweets. Our approach leveraged baseline models, pre-processing techniques, post-processing functions, and ensemble strategies.
 
+link to the leaderboard: https://zindi.africa/competitions/geoai-challege-location-mention-recognition-from-social-media/leaderboard
+
 ## The Data 📊
 * The Dataset used is the official IDRISI dataset available on the Github Repository here: [IDRISI Repository](https://github.com/rsuwaileh/IDRISI/tree/main/LMR) 📂
 
